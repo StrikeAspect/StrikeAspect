@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Strike🎨<br><br>
+# Hey there! 👋 I'm Rams🎨<br><br>
 
 👩‍🏭 Tech Enthusiast <br>
 - 🌱 Currently leveling up my skills as a Software Developer.
