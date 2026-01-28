@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Rams🎨<br><br>
 
 👩‍🏭 Tech Enthusiast <br>
-- 🌱 Currently leveling up my skills as a Software Developer.
+- 🌱 Currently leveling up my skills as a Jr. Fullstack Developer.
 - ✨ Always exploring: Innovative tech, graphic design trends, and photography.
 - 🎯 Goal: To contribute creativity and technical skills to build cool projects!
 - ⚡ Fun Fact: My passions switch between perfecting pixels and wrangling Python!
