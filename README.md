@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Rams🎨<br><br>
+# Hey there! 👋
 
 👩‍🏭 Tech Enthusiast <br>
 - 🌱 Currently leveling up my skills as a Jr. Fullstack Developer.
